@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-orange?logo=scikit-learn)
 ![License](https://img.shields.io/badge/License-MIT-green)
+[![GitHub](https://img.shields.io/badge/GitHub-DataWithRehman1-181717?logo=github)](https://github.com/DataWithRehman1)
 
 > **Predict whether an e-commerce order will arrive late *before shipment*, so that high-risk orders can be prioritised operationally.**
 
@@ -16,6 +17,7 @@
 - [Model Performance](#model-performance)
 - [Quick Start](#quick-start)
 - [Batch Prediction Pipeline](#batch-prediction-pipeline)
+- [Author](#author)
 
 ---
 
@@ -149,3 +151,15 @@ order_id,prediction,prediction_label,action
 ## License
 
 [MIT](LICENSE)
+
+---
+
+## Author
+
+**Abdul Rehman**
+
+[![GitHub](https://img.shields.io/badge/GitHub-DataWithRehman1-181717?logo=github)](https://github.com/DataWithRehman1)
+
+---
+
+*If you found this project useful, feel free to ⭐ star the repo!*
